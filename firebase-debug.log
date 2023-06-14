@@ -1,0 +1,21 @@
+[debug] [2023-06-06T15:39:17.716Z] ----------------------------------------------------------------------
+[debug] [2023-06-06T15:39:17.717Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2023-06-06T15:39:17.718Z] CLI Version:   12.3.0
+[debug] [2023-06-06T15:39:17.718Z] Platform:      darwin
+[debug] [2023-06-06T15:39:17.718Z] Node Version:  v18.16.0
+[debug] [2023-06-06T15:39:17.719Z] Time:          Tue Jun 06 2023 18:39:17 GMT+0300 (Israel Daylight Time)
+[debug] [2023-06-06T15:39:17.719Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-06T15:39:17.723Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-06T15:39:17.723Z] > authorizing via signed-in user (yannaif@highlander.io)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/yannaifischer/WebstormProjects/fire-server
+
